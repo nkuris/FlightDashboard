@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "flightdashboard.client", "flightdashboard.client\flightdashboard.client.esproj", "{3AE3B570-707A-B6EA-7A3F-4C6B9C6ACB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightDashboard.Server", "FlightDashboard.Server\FlightDashboard.Server.csproj", "{FF55EE96-0FFD-4D3D-8DA3-B509837A6FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE3B570-707A-B6EA-7A3F-4C6B9C6ACB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE3B570-707A-B6EA-7A3F-4C6B9C6ACB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE3B570-707A-B6EA-7A3F-4C6B9C6ACB37}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3AE3B570-707A-B6EA-7A3F-4C6B9C6ACB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE3B570-707A-B6EA-7A3F-4C6B9C6ACB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE3B570-707A-B6EA-7A3F-4C6B9C6ACB37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FF55EE96-0FFD-4D3D-8DA3-B509837A6FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF55EE96-0FFD-4D3D-8DA3-B509837A6FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF55EE96-0FFD-4D3D-8DA3-B509837A6FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF55EE96-0FFD-4D3D-8DA3-B509837A6FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B39AC9-519A-497C-B28B-614769747D3F}
+	EndGlobalSection
+EndGlobal

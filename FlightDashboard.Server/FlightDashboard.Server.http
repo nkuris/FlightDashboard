@@ -1,0 +1,6 @@
+@FlightDashboard.Server_HostAddress = http://localhost:5151
+
+GET {{FlightDashboard.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
